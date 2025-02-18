@@ -1,4 +1,4 @@
-# KnowDisaster
+# KnowDisaster (MS CodeFunDo 2018)
 
 KnowDisaster is an application that aims to prepare its users for the worst of natural disasters by predicting it's approximate occurrence, in real time. 
 
